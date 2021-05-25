@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Coolhabit
+- 👋 Hi, I’m Aleksandr Nikonorov @Coolhabit
 - 👀 I’m interested in web, Java, kotlin and music.
 - 🌱 I’m currently learning Java / kotlin.
 - 💞️ I’m looking to collaborate on ...
