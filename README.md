@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Aleksandr Nikonorov @Coolhabit
-- 👀 I’m interested in Java, kotlin and music.
-- 🌱 I’m currently learning Java / kotlin.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Kotlin, Android and music.
+- 📫 How to reach me: Telegram - @Coolhabit
 
 <!---
 Coolhabit/Coolhabit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
